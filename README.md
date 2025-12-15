@@ -88,7 +88,7 @@ The project demonstrates:
 
 ## 👨‍💻 Author
 
-**Developed by:** [Niku Namada](https://github.com/honestdev125)  
+**Developed by:** [Toma Kawaguchi](https://github.com/toma-work125)  
 💬 Front-End Developer | Passionate about interactive web applications  
 
 ---
