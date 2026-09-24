@@ -60,7 +60,7 @@ Travel-Mate replicates a modern travel booking experience. Users can:
 - Contact support through a professional page  
 
 The project demonstrates:
--Hello
+
 - Interactive, reusable components  
 - Smooth animations and responsive layouts  
 - Persistent state management for sold-out items  
